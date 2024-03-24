@@ -10,7 +10,7 @@ Key findings are expected to reveal patterns and strategies that could be employ
 
 #### Data Acquisition
 
-The study utilizes the dataset provided by Zhang, Xunhui, Ayushi Rastogi, and Yue Yu in their 2020 paper titled "On the shoulders of giants: A new dataset for pull-based development research." This dataset offers comprehensive insights into pull request activities across various projects, serving as a starting element for our analysis.
+The study utilizes the dataset provided by Zhang, Xunhui, Ayushi Rastogi, and Yue Yu in their 2020 paper titled "On the shoulders of giants: A new dataset for pull-based development research." This dataset offers comprehensive insights into pull request activities across various projects, serving as a starting element for our analysis. You can download the data set using the following link: https://zenodo.org/records/3922907
 
 #### Analysis Process
 
